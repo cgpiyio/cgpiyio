@@ -1,6 +1,6 @@
 # 👋 Hi, I'm PiyBasak!
 
-![Profile Banner](/github-header-image) <!-- Optional: Add your custom banner -->
+![Profile Banner](./github-header-image.png)<!-- Optional: Add your custom banner -->
 
 🎯 **Software Developer | FSE**  
 🌟 **Open Source Enthusiast | Lifelong Learner**
