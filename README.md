@@ -42,11 +42,11 @@
 ---
 
 ### 🌟 **Featured Projects**
-- [**Netflix Clone**](https://github.com/YourUsername/ProjectRepo)  
+- [**Netflix Clone**](https://github.com/cgpiyio)  
   _A cool project._  
   ![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/ProjectRepo?style=social)  
 
-- [**Shopping Store using React**](https://github.com/YourUsername/AnotherProject)  
+- [**Shopping Store using React**](https://github.com/cgpiyio)  
   _A cool project._  
   ![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/AnotherProject?style=social)
 
