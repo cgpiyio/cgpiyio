@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 **About Me**
-- 🔭 Currently working on **[Your Current Project/Area of Focus]**  
-- 🌱 Learning **[Skills or Topics You’re Exploring]**  
-- 💬 Ask me about **[Your Expertise or Passion]**  
-- 🌍 Exploring **[Tech, Design, or Global Interests]**  
+- 🔭 Currently working on **MVC Architecture**  
+- 🌱 Learning **ASP.NET**  
+- 💬 Ask me about **WebDev**  
+- 🌍 Exploring **Cities**  
 
 ---
 
