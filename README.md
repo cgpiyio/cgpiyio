@@ -42,12 +42,12 @@
 ---
 
 ### 🌟 **Featured Projects**
-- [**Project Name**](https://github.com/YourUsername/ProjectRepo)  
-  _Description of the project and its significance._  
+- [**Netflix Clone**](https://github.com/YourUsername/ProjectRepo)  
+  _A cool project._  
   ![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/ProjectRepo?style=social)  
 
-- [**Another Cool Project**](https://github.com/YourUsername/AnotherProject)  
-  _Another brief description._  
+- [**Shopping Store using React**](https://github.com/YourUsername/AnotherProject)  
+  _A cool project._  
   ![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/AnotherProject?style=social)
 
 ---
